@@ -1,0 +1,6 @@
+.env*
+.data
+.next
+.next-build
+node_modules
+VIRALOT-HANDOFF-WITH-KEYS.md

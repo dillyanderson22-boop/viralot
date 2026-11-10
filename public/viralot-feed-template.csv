@@ -1,0 +1,3 @@
+VIN,Stock Number,Year,Make,Model,Trim,Condition,Exterior Color,MSRP,Internet Price,Lease Payment,Lease Term,Due At Signing,APR,APR Term,Customer Cash,Dealer Discount,Military Bonus,Image URLs,Description,VDP URL
+7FARS4H51TE012345,H12345,2026,Honda,CR-V,EX AWD,New,Canyon River Blue Metallic,"$37,450","$35,990",299,36,"$3,999",2.9,60,"$1,000",$460,$500,https://example.com/crv1.jpg|https://example.com/crv2.jpg,"Heated seats, Honda Sensing, wireless CarPlay.",https://dealer.example.com/vdp/crv
+5FPYK3F58TB027364,H9430,2026,Honda,Ridgeline,RTL,New,Platinum White Pearl,"$47,590","$44,884",,,,1.99,36,"$2,250",,,https://example.com/ridge.jpg,"AWD, truck bed audio.",https://dealer.example.com/vdp/ridgeline

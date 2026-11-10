@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.data/
+
+# OEM licensed fonts (DealerCentives brand kit): never commit or publish
+/src/brand-kit/fonts/
+
+# guide with real API keys (make-handoff.sh)
+VIRALOT-HANDOFF-WITH-KEYS.md
